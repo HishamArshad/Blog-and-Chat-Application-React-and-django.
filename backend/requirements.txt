@@ -36,7 +36,6 @@ incremental==22.10.0
 jwcrypto==1.5.0
 msgpack==1.0.7
 multidict==6.0.4
-mysqlclient==2.2.0
 ndg-httpsclient==0.5.1
 oauthlib==3.2.2
 outcome==1.3.0.post0
